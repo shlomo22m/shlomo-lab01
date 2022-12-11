@@ -17,7 +17,7 @@ pipeline {
        
         stage('test') {
             steps {
-                echo 'shlomo'
+                echo 'shlomo mhadker'
             }
         }
         stage('deploy') {
